@@ -41,3 +41,6 @@ MODEL PUSHER related constant start with MODEL_PUSHER var name
 """
 BUCKET_NAME = "signlang-model-2024"
 S3_MODEL_NAME = "best.pt"
+
+APP_HOST = "0.0.0.0"
+APP_PORT = 8080
